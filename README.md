@@ -41,3 +41,7 @@ To monitor basic operational metrics such as:
 
 ## Outcome
 This analysis helps understand transaction performance and identify operational issues in digital banking channels.
+
+“Basit bir işlem verisiyle
+başarılı–hatalı işlem sayılarını çıkardım
+ve hangi kanalda sorun yoğun onu görmek istedim.”
